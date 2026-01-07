@@ -1,5 +1,5 @@
 <p align="center"> <a href="https://www.youtube.com/watch?v=HEHzo20-0GY"> <img src="https://img.youtube.com/vi/HEHzo20-0GY/hqdefault.jpg" width="360"> </a>
-  <a href="https://www.youtube.com/watch?v=wdjGOP5RptY"> <img src="https://img.youtube.com/vi/wdjGOP5RptY/hqdefault.jpg" width="360"> </a><br> <a href="https://www.youtube.com/watch?v=HEHzo20-0GY">✧ Freya's sisters fantasy guide to Practical AI ✧ </a>, followed by the <a href="https://www.youtube.com/watch?v=HEHzo20-0GY"> 🛠️ Practical AI introduction 🛠️ </a> </p>
+  <a href="https://www.youtube.com/watch?v=wdjGOP5RptY"> <img src="https://img.youtube.com/vi/wdjGOP5RptY/hqdefault.jpg" width="360"> </a><br> <a href="https://www.youtube.com/watch?v=HEHzo20-0GY">✧ Freya's sisters fantasy guide to Practical AI ✧ </a>, followed by the <a href="https://www.youtube.com/watch?v=wdjGOP5RptY"> 🛠️ Practical AI introduction 🛠️ </a> </p>
 
 # 🌐 Laegna Practical AI  
 ### **Your Portal to Practical, Document‑Driven Artificial Intelligence**
